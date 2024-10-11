@@ -1,5 +1,7 @@
-c# 💫 About Me:
-🔭 Actualmente estoy trabajando en Proyecto Biometría y Medio Ambiente de 3ºGTI <br> Busco colaborar en proyectos de Android, web y otros
+# 💫 About Me:
+🍃Actualmente desarrollando el Proyecto Biometría y Medio Ambiente como parte del tercer año de Grado en Tecnologías de la Información (GTI) en la Universidad Politécnica de Valencia.
+
+🤝 Interesado en colaborar en proyectos de desarrollo de aplicaciones Android, desarrollo web y otros relacionados con tecnologías emergentes. Comprometido con el aprendizaje continuo y con proyectos que generen un impacto positivo.
 
 
 ## 🌐 Socials:
